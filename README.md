@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ashleshkharvi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Bio:
+Mechanical Engineering undergraduate | Minor in Computer Science | FEM, CFD, Simulation, Python
 
-<!---
-ashleshkharvi/ashleshkharvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Email:
+ashleshkharvi21@gmail.com
+
+Location:
+Bangalore, India
